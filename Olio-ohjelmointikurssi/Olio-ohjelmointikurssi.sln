@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olio-ohjelmointikurssi", "Olio-ohjelmointikurssi\Olio-ohjelmointikurssi.csproj", "{407C3D50-E515-4605-909A-B7B9C623FC1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht5", "Teht5\Teht5.csproj", "{28FE9E16-EE97-4C03-94E2-33E36BE8BE72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht6", "Teht6\Teht6.csproj", "{720C03CE-FE2B-425F-A1B9-AED098F44858}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407C3D50-E515-4605-909A-B7B9C623FC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407C3D50-E515-4605-909A-B7B9C623FC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407C3D50-E515-4605-909A-B7B9C623FC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407C3D50-E515-4605-909A-B7B9C623FC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28FE9E16-EE97-4C03-94E2-33E36BE8BE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FE9E16-EE97-4C03-94E2-33E36BE8BE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FE9E16-EE97-4C03-94E2-33E36BE8BE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FE9E16-EE97-4C03-94E2-33E36BE8BE72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720C03CE-FE2B-425F-A1B9-AED098F44858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720C03CE-FE2B-425F-A1B9-AED098F44858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720C03CE-FE2B-425F-A1B9-AED098F44858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720C03CE-FE2B-425F-A1B9-AED098F44858}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
