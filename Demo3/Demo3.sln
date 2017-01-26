@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo3", "Demo3\Demo3.csproj", "{7439BAB8-39EB-402D-AEB0-4D62CBF6E528}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaterApplication", "HeaterApplication\HeaterApplication.csproj", "{5199D606-AD4B-4CC4-AE43-20F9E3C18CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht02WashingMachine", "Teht02WashingMachine\Teht02WashingMachine.csproj", "{55E053E1-DEA1-4099-B8D3-9CF8EE282BD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5199D606-AD4B-4CC4-AE43-20F9E3C18CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5199D606-AD4B-4CC4-AE43-20F9E3C18CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5199D606-AD4B-4CC4-AE43-20F9E3C18CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E053E1-DEA1-4099-B8D3-9CF8EE282BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E053E1-DEA1-4099-B8D3-9CF8EE282BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E053E1-DEA1-4099-B8D3-9CF8EE282BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E053E1-DEA1-4099-B8D3-9CF8EE282BD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

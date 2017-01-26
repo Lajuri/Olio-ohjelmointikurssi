@@ -54,7 +54,7 @@ namespace HeaterApplication
                 Console.WriteLine("Heater is Off");
             Console.WriteLine("Temperature: " + Temperature);
             Console.WriteLine("Humidity: " + Humidity+"%");
-
+            Console.WriteLine();
         }
 
     }
