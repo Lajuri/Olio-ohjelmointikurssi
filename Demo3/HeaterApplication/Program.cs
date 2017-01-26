@@ -30,7 +30,6 @@ namespace HeaterApplication
                     case 2:
                         Console.WriteLine("Give new temperature:");
                         number = int.Parse(Console.ReadLine());
-
                         break;
 
 
