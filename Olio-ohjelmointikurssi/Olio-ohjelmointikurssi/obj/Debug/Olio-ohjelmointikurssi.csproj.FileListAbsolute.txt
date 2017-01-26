@@ -1,0 +1,6 @@
+C:\Users\h3465\Source\Repos\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\bin\Debug\Olio-ohjelmointikurssi.exe.config
+C:\Users\h3465\Source\Repos\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\bin\Debug\Olio-ohjelmointikurssi.exe
+C:\Users\h3465\Source\Repos\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\bin\Debug\Olio-ohjelmointikurssi.pdb
+C:\Users\h3465\Source\Repos\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\obj\Debug\Olio-ohjelmointikurssi.csprojResolveAssemblyReference.cache
+C:\Users\h3465\Source\Repos\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\obj\Debug\Olio-ohjelmointikurssi.exe
+C:\Users\h3465\Source\Repos\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\obj\Debug\Olio-ohjelmointikurssi.pdb

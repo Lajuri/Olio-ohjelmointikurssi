@@ -1,0 +1,5 @@
+C:\Users\h3465\Source\Repos\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\CarApplication\bin\Debug\CarApplication.exe.config
+C:\Users\h3465\Source\Repos\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\CarApplication\bin\Debug\CarApplication.exe
+C:\Users\h3465\Source\Repos\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\CarApplication\bin\Debug\CarApplication.pdb
+C:\Users\h3465\Source\Repos\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\CarApplication\obj\Debug\CarApplication.exe
+C:\Users\h3465\Source\Repos\Olio-ohjelmointikurssi\Olio-ohjelmointikurssi\CarApplication\obj\Debug\CarApplication.pdb
