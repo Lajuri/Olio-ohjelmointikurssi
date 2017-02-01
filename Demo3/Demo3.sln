@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaterApplication", "Heater
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht02WashingMachine", "Teht02WashingMachine\Teht02WashingMachine.csproj", "{55E053E1-DEA1-4099-B8D3-9CF8EE282BD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht03TV", "Teht04TV\Teht03TV.csproj", "{BBA56C0D-368E-462E-87B1-13382E515795}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht04TV", "Teht04TV\Teht04TV.csproj", "{BBA56C0D-368E-462E-87B1-13382E515795}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht04Vehicle", "Teht04Vehicle\Teht04Vehicle.csproj", "{2877F2B0-440E-455E-87C2-060A8690D749}"
 EndProject
