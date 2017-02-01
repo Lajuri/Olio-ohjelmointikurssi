@@ -32,10 +32,20 @@ namespace Teht02WashingMachine
         public void Switch()
         {
             if (IsOn == true)
+            {
                 IsOn = false;
-            else
-                IsOn = true;
+                WaterIn = false;
+            }
+           else if (Program == 0)
+            {
+                Console.WriteLine("Choose program");               
+            }
 
+            else
+            { 
+                IsOn = true;
+                WaterIn = true;
+                }
         }
         //Method to choose program
         public void Prog(int value)
@@ -43,9 +53,12 @@ namespace Teht02WashingMachine
             Program = value;
         }
         //Method to turn sling on or off
-        public void Slinging(bool value)
+        public void Slinging()
         {
-            Sling = value;
+            if (Sling == true)
+                Sling = false;
+            else
+                Sling = true;
         }
         public void PrintData()
         {
